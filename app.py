@@ -1,2 +1,2 @@
-sample="hello"
+sample="hello chaitanya"
 print(sample)
